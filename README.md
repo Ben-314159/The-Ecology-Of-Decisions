@@ -1,4 +1,4 @@
-# The Ecology of Decisions: Probability Distortion as Ecological Rationality
+# The Ecology of Decisions: Probability Distortion as the Gap Between Bayesian and Ecological Rationality
 
 ## Abstract
 
