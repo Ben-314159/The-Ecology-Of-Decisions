@@ -9,6 +9,7 @@ We show that any monotonic decision policy can be represented as a threshold app
 This introduces a framework for predicting behaviour from ecological parameters without fitting psychological constructs, and reframes probability distortion as a consequence of adaptation to environmental constraints.
 
 ---
+![Alpha Distribution](report/figures/alpha_distribution.png)
 
 ## Repository Structure
 
